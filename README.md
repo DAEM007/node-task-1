@@ -51,3 +51,5 @@ Returns an array of books written by the specified author.
 `console.log("Books by Author 1:");`
 
 `console.log(authorBooks);`
+
+> PS: *Thanks to KodeCamp for giving me the opportunity to learn and improve my skills*
