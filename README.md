@@ -33,14 +33,21 @@ Returns an array of books written by the specified author.
 `const myLibrary = new LibraryCatalog();`
 
 `myLibrary.addBook("Book 1", "Author 1", "Genre 1");`
+
 `myLibrary.addBook("Book 2", "Author 2", "Genre 2");`
+
 `myLibrary.addBook("Book 3", "Author 1", "Genre 3");`
 
 `console.log("All books in the catalog:");`
+
 `for (const book of myLibrary) {`
+
   `console.log(book.title);`
+
 `}`
 
 `const authorBooks = myLibrary.getBooksByAuthor("Author 1");`
+
 `console.log("Books by Author 1:");`
+
 `console.log(authorBooks);`
