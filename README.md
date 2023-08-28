@@ -1,6 +1,6 @@
 # Library Catalog
 
-> The Library Catalog is a simple JavaScript library that allows you to manage a collection of books and perform various operations on them. It provides an easy way to add, retrieve, and iterate through books in a catalog.
+> *The Library Catalog is a simple JavaScript library that allows you to manage a collection of books and perform various operations on them. It provides an easy way to add, retrieve, and iterate through books in a catalog.*
 
 ## Table of contents
 - Usage
